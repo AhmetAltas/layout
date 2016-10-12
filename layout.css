@@ -1,0 +1,134 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 60px;
+}
+
+head {
+	background-color: black;
+}
+
+
+
+
+.tweedead {
+   fle
+}
+
+
+p {
+	font-size: 20px
+}
+
+
+img	{
+	width: 15%;
+	height: 15%;
+}
+.art1{
+	max-width: 700px;
+	flex:1;
+	-webkit-flex: 1;
+	min-width: 600px;
+	margin:4px;
+	background-color: rgba(0,1,255,0.3);
+}
+
+.art2{
+	max-width: 700px;
+	flex:1;
+	-webkit-flex: 1;
+	min-width: 600px;
+	margin: 4px;
+	background-color: rgba(0,1,255,0.3);
+}
+.art3{
+	max-width: 600px;
+	flex:1;
+	-webkit-flex: 1;
+	min-width: 300px;
+	margin: 4px;
+	background-color: rgba(0,1,255,0.3);
+}
+.art4{
+	max-width: 600px;
+	min-width: 400px;
+	flex:1;
+	-webkit-flex: 1;
+	margin:4px;
+	background-color: rgba(0,1,255,0.3);
+}
+
+
+.flex{
+	display: -webkit-flex;
+    display: flex;
+    max-width: 1960px;
+
+   flex-wrap: wrap;
+    margin-
+
+}
+
+
+.rij1 {
+ display: -webkit-flex;
+ -webkit-flex: 1;
+ flex: 1;
+ display: flex;
+}
+
+.rij2 {
+flex: 1;
+display: -webkit-flex;
+-webkit-flex:1;
+display: flex;
+}
+.rechtsboven{
+	flex:1;
+	-webkit-flex:1;
+flex-direction:column;
+	display: -webkit-flex;
+    display: flex;
+}
+
+
+.ad1 {
+	flex:1;
+	-webkit-flex : 1;
+	margin-left: 200px
+}
+.ad2 {
+	flex:1;
+	-webkit-flex : 1;
+	margin-left: 200px;
+}
+img{
+	height: 300px;
+	width:300px;
+}
